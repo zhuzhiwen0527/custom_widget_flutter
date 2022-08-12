@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.19610507246376813" />
+        <entry key="../local_auth/android/src/main/res/drawable/finger_dialog_background.xml" value="0.1295" />
+        <entry key="../local_auth/android/src/main/res/layout/dialog_finger_print.xml" value="0.25" />
+        <entry key="../local_auth/android/src/main/res/layout/go_to_setting.xml" value="0.2791666666666667" />
+        <entry key="../local_auth/android/src/main/res/layout/no_setting_biometrics_id.xml" value="0.2791666666666667" />
+        <entry key="../local_auth/android/src/main/res/layout/scan_fp.xml" value="0.2791666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
